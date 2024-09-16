@@ -1,4 +1,5 @@
 - 👋 Hi, I’m HuyTuan
+- bio: https://guns.lol/tundayne
 - 🐰🥕 Rabbit
 
 
