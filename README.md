@@ -1,7 +1,7 @@
 # <p align="center">🎮 [TUNDAYNE] | GAME DEVELOPER 🎮</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Building%20Worlds...&fontSize=70&animation=fadeIn" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVheTF3a3JidDhxcXFheDZhaTY0bGhyMmJybjB4NXRldHpkb2tmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXjt5JYY71fthiZdIi/giphy.gif" width="600" />
 </p>
 
 ## 📜 Quest Log (Current Missions)
@@ -47,8 +47,9 @@
 
 ## 📱 Connect with Me
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hahuytuan033@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="right"><i>"Keep coding, the world is still loading..."</i> ⏳</p>
